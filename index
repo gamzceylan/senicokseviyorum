@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<title>gamzeceylan</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<body>
+  <style>
+    body {
+      background-color: MistyRose;
+      font-family: montserrat ;
+      margin-left: 0;
+      margin-top: 0;
+    }
+
+    .content {
+      font-size: 2vw;
+      margin-left: 10vw;
+    }
+
+    h1 {
+      color: palevioletred;
+      font-size: 2vw;
+    }
+
+    h2 {
+      color: palevioletred;
+      font-size: 2vw;
+    }
+
+    p {
+      color: PaleVioletRed;
+      font-size: 2vw;
+    }
+
+    a:link {
+      color: palevioletred;
+      background-color: mistyrose;
+      text-decoration: underline;
+    }
+
+    a:visited {
+      color: palevioletred;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: mistyrose;
+      background-color: palevioletred;
+      text-decoration: underline;
+    }
+
+    a:active {
+      color: white;
+    }
+
+    .annen {
+      font-size: 2vw;
+      color: darkmagenta;
+    }
+
+    .sidebar {
+      background-color: palevioletred;
+      color: mistyrose;
+      height: 100%;
+      width: 50vw;
+      position: fixed;
+      margin-top: 0%;
+      padding:1%
+    }
+
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+
+    .center2 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+      padding-bottom: 2vw;
+      font-size: 90%;
+    }
+
+    .title {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 90%;
+      font-size: 70%;
+      color: mistyrose;
+    }
+  </style>
+
+
+
+  <!-- Sidebar -->
+  <div class="sidebar" style="width:10%">
+
+    <img src="https://i.hizliresim.com/9q5e5im.png" style="width:80%" class="center">
+
+    <h1><span class="title center">gamzeceylan</span></h1>
+    <h3><span class="title center">fulltime arch & interior arch student</span></h3>
+
+
+    <ul class="center2">
+      <li><a href="https://www.behance.net/gamzeceylan"><strong>behance</strong></a></li>
+      <li><a href="https://www.linkedin.com/in/gamzceylan/"><strong>linkedin</strong></a></li>
+      <li><a href="https://www.instagram.com/gamzceylan/"><strong>instagram </strong></a></li>
+      <li><a href="https://twitter.com/gamzcei"><strong>twitter</strong></a></li>
+
+    </ul>
+
+  </div>
+
+  <!-- Page Content -->
+
+  <dv class="content">
+    <img src="https://i.hizliresim.com/9q5e5im.png" style="width:80%" class="center">
+    
+  
+  
+  
+  </dv>
+</body>
+</html>
